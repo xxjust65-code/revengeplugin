@@ -1,14 +1,1 @@
-{
-  "name": "MessageFaker",
-  "description": "Inject fake messages into DMs from anyone",
-  "authors": [
-    {
-      "name": "YourName",
-      "id": "0"
-    }
-  ],
-  "main": "index.js",
-  "vendetta": {
-    "icon": "ic_message_edit"
-  }
-}
+{"name":"MessageFaker","description":"Inject fake messages into DMs from anyone","authors":[{"name":"YourName","id":"0"}],"main":"index.js","vendetta":{"icon":"ic_message_edit"}}
